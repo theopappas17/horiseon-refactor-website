@@ -45,10 +45,6 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
 .hero {
     height: 800px;
     width: 100%;
@@ -185,10 +181,15 @@ footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: black;
     text-align: center;
 }
 
 footer h2 {
     font-size: 20px;
+    color: black;
+}
+
+#copyright {
+  color: black;
+  font-size: 16 px;
 }
