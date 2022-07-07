@@ -118,6 +118,7 @@ main {
 
 aside {
     margin-right: 20px;
+    margin-bottom: 32px;
     padding: 20px;
     clear: both;
     float: right;
@@ -125,18 +126,6 @@ aside {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-}
-
-.aside-lead {
-    margin-bottom: 32px;
-}
-
-.aside-brand {
-    margin-bottom: 32px;
-}
-
-.aside-cost {
-    margin-bottom: 32px;
 }
 
 .aside-lead h3 {
